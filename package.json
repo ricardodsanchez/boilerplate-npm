@@ -1,6 +1,7 @@
 {
-	"author": "Ricardo Sanchez",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Ricardo Sanchez",
+	"description": "This is a test to verify the NPM's package description",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -10,6 +11,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/ricardodsanchez/boilerplate-npm.git"
 	}
 }
