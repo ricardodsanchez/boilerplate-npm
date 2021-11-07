@@ -2,6 +2,11 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Ricardo Sanchez",
 	"description": "This is a test to verify the NPM's package description",
+	"keywords": [
+		"freecodecamp",
+		"rcrdo",
+		"npm package test"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
