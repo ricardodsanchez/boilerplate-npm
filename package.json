@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"version": "1.2.0",
 	"author": "Ricardo Sanchez",
 	"description": "This is a test to verify the NPM's package description",
 	"keywords": [
